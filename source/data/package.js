@@ -1,3 +1,6 @@
 enyo.depends(
-	"data.js"
+	"modelPrediction.js",
+	"modelUser.js",
+	"collectionPrediction.js",
+	"collectionUser.js"
 );
