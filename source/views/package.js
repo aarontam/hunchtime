@@ -1,3 +1,10 @@
 enyo.depends(
-	"viewStart.js"
+	"viewStart.js",
+	"viewPool.js",
+	"viewCreate.js",
+	"viewInvite.js",
+	"viewFriends.js",
+	"viewSettings.js",
+	"viewUser.js",
+	"viewDashboard.js"
 );
