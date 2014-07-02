@@ -7,3 +7,6 @@
 [submodule "lib/layout"]
 	path = lib/layout
 	url = ../../enyojs/layout.git
+[submodule "lib/mochi"]
+	path = lib/mochi
+	url = https://github.com/enyojs/mochi.git
