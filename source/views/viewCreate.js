@@ -1,6 +1,5 @@
 /**
-* The view that allows a user to create a prediction, setting the various event parameters that will
-* comprise the event that members of the prediction pool will make predictions about.
+* The view that allows a user to create a prediction and/or a pool, depending on the context. When in pool-creation mode, the
 *
 * @class nos.CreateView
 * @public
