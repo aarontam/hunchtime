@@ -3,13 +3,17 @@
 * When in pool-creation mode, the originating question is specified in addition to the
 * pool creator's initial hunch. For example:
 * ```
-* Question: _Who will win the 2014 FIFA World Cup?_
+* What do you want to make a hunch about?
+* _Who will win the 2014 FIFA World Cup?_
+* 
 * My hunch: _Brazil_
 * ```
 * 
 * When in hunch-only mode, which occurs when responding to a pool invitation to make a 
-* hunch about a given event, only the hunch is specified:
+* hunch about a given event, only the hunch is specified in addition to name, if not
+* logged-in and/or name has not been previously specified:
 * ```
+* Name: Aaron
 * My hunch: _6_
 * ```
 *
