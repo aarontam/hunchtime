@@ -14,7 +14,5 @@
 * @public
 */
 enyo.kind({
-	name: 'nos.PoolView',
-	kind: 'FittableRows',
-	fit: true
+	name: 'nos.PoolView'
 });

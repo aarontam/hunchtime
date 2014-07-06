@@ -6,6 +6,7 @@
 */
 enyo.kind({
 	name: 'nos.SettingsView',
-	kind: 'FittableRows',
-	fit: true
+	components: [
+		{kind: 'mochi.Subheader', content: 'Settings'}
+	]
 });

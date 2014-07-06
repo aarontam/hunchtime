@@ -6,6 +6,8 @@
 */
 enyo.kind({
 	name: 'nos.DashboardView',
-	kind: 'FittableRows',
-	fit: true
+	style: 'width: 100%',
+	components: [
+		{kind: 'mochi.Subheader', content: 'Dashboard'}
+	]
 });

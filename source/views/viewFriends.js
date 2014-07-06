@@ -5,7 +5,5 @@
 * @public
 */
 enyo.kind({
-	name: 'nos.FriendsView',
-	kind: 'FittableRows',
-	fit: true
+	name: 'nos.FriendsView'
 });
