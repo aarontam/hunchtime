@@ -21,7 +21,7 @@
 * @public
 */
 enyo.kind({
-	name: "nos.CreateView",
-	kind: "FittableRows",
+	name: 'nos.CreateView',
+	kind: 'FittableRows',
 	fit: true
 });

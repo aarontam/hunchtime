@@ -5,7 +5,7 @@
 * @public
 */
 enyo.kind({
-	name: "nos.DashboardView",
-	kind: "FittableRows",
+	name: 'nos.DashboardView',
+	kind: 'FittableRows',
 	fit: true
 });

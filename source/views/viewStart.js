@@ -8,7 +8,7 @@
 * @public
 */
 enyo.kind({
-	name: "nos.StartView",
-	kind: "FittableRows",
+	name: 'nos.StartView',
+	kind: 'FittableRows',
 	fit: true
 });

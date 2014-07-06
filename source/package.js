@@ -1,15 +1,15 @@
 enyo.depends(
 	// Layout library
-	"$lib/layout",
+	'$lib/layout',
 	// Mochi UI library
-	"$lib/mochi",
-	//"Theme.less",	// uncomment this line, and follow the steps described in Theme.less
+	'$lib/mochi',
+	//'Theme.less',	// uncomment this line, and follow the steps described in Theme.less
 	// CSS/LESS style files
-	"style",
+	'style',
 	// Model and data definitions
-	"data",
+	'data',
 	// View kind definitions
-	"views",
+	'views',
 	// Include our default entry point
-	"app.js"
+	'app.js'
 );
