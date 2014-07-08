@@ -1,6 +1,8 @@
 enyo.depends(
-	'modelPrediction.js',
+	'modelHunch.js',
+	'modelPool.js',
 	'modelUser.js',
-	'collectionPrediction.js',
+	'collectionHunch.js',
+	'collectionPool.js',
 	'collectionUser.js'
 );
