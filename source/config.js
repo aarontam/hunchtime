@@ -1,5 +1,6 @@
 /**
-	Replace the value of _apiKey_ with your Gilt API key.
+	Replace the value of `applicationId` with your Parse Application ID.
+	Replace the value of `javaScriptKey` with your Parse JavaScript Key.
 */
 
 enyo.kind({
