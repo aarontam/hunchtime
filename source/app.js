@@ -11,5 +11,6 @@ enyo.kind({
 });
 
 enyo.ready(function () {
+	Parse.initialize(nos.Config.applicationId, nos.Config.javaScriptKey);
 	new nos.Application({name: "app"});
 });
